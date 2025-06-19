@@ -205,7 +205,7 @@ header
 key-visual
 ---------------------------------*/
 .key-visual {
-   background: url(img/website304.jpg) no-repeat center center/cover;
+   background: url(website304.jpg) no-repeat center center/cover;
     text-align: center;
     padding-top: 90px;
 }
@@ -281,7 +281,7 @@ sec02
     background-color: blanchedalmond;
     text-align: center;
     padding: 40px 20px;
-    background: url(img/website306.jpg) no-repeat center center/cover;
+    background: url(website306.jpg) no-repeat center center/cover;
 }
 .sec02 h1 {
     font-size: 24px;
@@ -394,7 +394,7 @@ sec03
 sec04
 ---------------------------------*/
 .sec04 {
-    background: url(img/website312.jpg) no-repeat center center/cover;
+    background: url(website312.jpg) no-repeat center center/cover;
     text-align: center;
 }
 .sec04 h3 {
@@ -559,7 +559,7 @@ sec06
 sec07
 ---------------------------------*/
 .sec07 {
-    background: url(img/website320.jpg) no-repeat center center/cover;
+    background: url(website320.jpg) no-repeat center center/cover;
     text-align: center;
     color: #fff;
     padding: 20px;
@@ -726,7 +726,7 @@ sec09
     text-align: center;
 }
 .sec09 .top {
-    background: url(img/website327.jpg) no-repeat center center/cover;
+    background: url(website327.jpg) no-repeat center center/cover;
     margin: 0 auto;
 }
 .sec09 h1 {
@@ -844,7 +844,7 @@ sec10
 sec11
 ---------------------------------*/
 .sec11 .top {
-    background:url(img/website336.jpg) no-repeat  center center / cover;
+    background:url(website336.jpg) no-repeat  center center / cover;
     text-align: left;
     color: #fff;
 }
@@ -936,7 +936,7 @@ sec11
     max-width: 80%;
 }
 .sec11 .bottom {
-    background:url(img/website337.jpg) no-repeat center center /cover;
+    background:url(website337.jpg) no-repeat center center /cover;
     text-align: center;
     color: #fff;
 }
@@ -1236,7 +1236,7 @@ SP
         font-size: 10px;
     }
     .key-visual {
-        background: url(img/mainsp.jpg) no-repeat center center/cover;
+        background: url(mainsp.jpg) no-repeat center center/cover;
     }
     .key-visual h1 {
         font-size: 18px;
@@ -1271,7 +1271,7 @@ SP
     }
     .sec02 {
         padding: 40px 20px;
-        background: url(img/website306.jpg) no-repeat center bottom / contain;
+        background: url(website306.jpg) no-repeat center bottom / contain;
     }
     .sec02 .title-flame {
         font-size: 18px;
@@ -1325,7 +1325,7 @@ SP
         font-size: 10px;
     }
     .sec04 {
-        background: url(img/aboutsecondbgsp.jpg) no-repeat center center /cover;
+        background: url(aboutsecondbgsp.jpg) no-repeat center center /cover;
     }
     .sec04 h3 {
         font-size: 18px;
@@ -1606,7 +1606,7 @@ SP
         display: none;
     }
     .sec11 .top {
-        background:url(img/bangkokbgsp.jpg) no-repeat center center/cover;
+        background:url(bangkokbgsp.jpg) no-repeat center center/cover;
     }
     .sec11 .top-title  {
         font-size: 24px;
